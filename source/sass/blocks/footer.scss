@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  width: 100%;
+  min-height: 3rem;background-color: olive;
+  padding: 2rem 2rem;
+}
+
+.footer__container {
+  display: flex;
+  justify-content: space-between;
+}

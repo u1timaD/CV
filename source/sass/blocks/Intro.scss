@@ -1,0 +1,27 @@
+
+.intro {
+  background-color: coral;
+  padding: 9rem 4rem 2rem;
+}
+
+.intro__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.intro__block {
+  max-width: 20rem;
+}
+
+.intro__block h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+
+.intro__block p {
+  /* max-width: 20rem; */
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+}

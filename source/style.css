@@ -1,0 +1,100 @@
+*, ::after, ::before {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  min-height: 100vh;
+}
+
+html {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  /* font-size: 62.5%; */
+  line-height: 24px;
+  scroll-behavior: smooth;
+  color: black;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  display: block;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black
+}
+
+:is(h1, h2, h3) {
+  margin-bottom: 2rem;
+}
+
+ul, li, ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* НЕ НАЗНАЧИЛ */
+.button {
+  width: 5rem;
+  height: 2rem;
+  background-color: red;
+}
+
+/* НЕ НАЗНАЧИЛ */
+.container {
+  width: 100%;
+  max-width: 128rem;
+  margin: 0 auto;
+  padding: 0 6rem;
+}
+
+
+
+/* НЕ НАЗНАЧИЛ */
+.main {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  width: 100%;
+}
+
+
+
+
+/* About-me  */
+
+
+
+
+
+/* Skills */
+
+/* Projects  */
+
+/* education */
+
+
+
+
+/* footer */
+
+.rsschool {
+  background-color: #fff;
+}

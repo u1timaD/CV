@@ -1,0 +1,22 @@
+
+.skills {
+  padding: 5rem 2rem;
+  background-color: teal
+
+}
+
+.skills__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skills__wrapper {
+  display: flex;
+
+}
+
+.skills__program {
+  display: flex;
+  flex-direction: column;
+}
