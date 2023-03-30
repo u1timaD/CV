@@ -57,43 +57,6 @@ ul, li, ol {
   background-color: red;
 }
 
-/* НЕ НАЗНАЧИЛ */
-.container {
-  width: 100%;
-  max-width: 128rem;
-  margin: 0 auto;
-  padding: 0 6rem;
-}
-
-
-
-/* НЕ НАЗНАЧИЛ */
-.main {
-  display: flex;
-  flex-direction: column;
-  flex: 1 1 auto;
-  width: 100%;
-}
-
-
-
-
-/* About-me  */
-
-
-
-
-
-/* Skills */
-
-/* Projects  */
-
-/* education */
-
-
-
-
-/* footer */
 
 .rsschool {
   background-color: #fff;

@@ -3,12 +3,13 @@
   width: 100%;
   background-color: inherit;
   padding: 2rem 5rem;
+
+  &__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
 }
 
 
-.header__container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-}
